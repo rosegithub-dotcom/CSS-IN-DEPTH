@@ -1,0 +1,14 @@
+a:link{
+    background-color: blueviolet;
+    padding: 10px 15px;
+    text-align: end;
+    text-decoration: none;
+    display: inline-block;
+}
+a:hover,a:active{
+    background-color: chartreuse;
+}
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: red;
+}

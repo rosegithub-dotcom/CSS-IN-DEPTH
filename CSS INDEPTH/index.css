@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+.row-container{
+    display: flex;
+    gap: 2rem;font-weight: 600px;
+    background-color: orange;
+    font-size: 50px;
+    color: brown;
+}
